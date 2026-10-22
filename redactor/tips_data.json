@@ -1,0 +1,13 @@
+{
+  "tip_1": {
+    "name": "Тестовый совет",
+    "level": 2,
+    "status": 0,
+    "topic": "Тесты",
+    "tip": "Тесты крайне важны для тесторивания пример на фото [img1] \nИли же на фото [img2]",
+    "images": [
+      "assets/tips/tip_1/images.jpg",
+      "assets/tips/tip_1/Fallout_3.jpg"
+    ]
+  }
+}
